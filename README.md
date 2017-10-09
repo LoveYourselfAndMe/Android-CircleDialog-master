@@ -1,3 +1,6 @@
+修改按Home键退出崩溃问题
+下面是原作者笔记感谢作者:
+
 # Android-CircleDialog
    相比SuperDialog而言，此库支持横竖屏切换
    基于`DialogFragment`封装，支持自定义边框圆角、背景透明度、字体大小与色值等。
